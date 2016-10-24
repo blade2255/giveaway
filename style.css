@@ -1,0 +1,10 @@
+    body {
+        color: darkgrey;
+        font-family: 'Open Sans', sans-serif;
+        background-image: url('HighResSoap.jpg');
+        background-attachment: fixed;
+        background-position: center;
+        background-size: contain;
+        text-align: center;
+        background color: rgb(240,238,240);
+}
